@@ -1,0 +1,11 @@
+.container {
+    width: 80vw;
+    border: 2px solid blue;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.item {
+    border: 2px solid green;            
+    height: 55px;
+}
